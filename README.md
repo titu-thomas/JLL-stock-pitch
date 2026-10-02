@@ -186,7 +186,6 @@ The principal risks to the thesis include:
 | `Jyothy_Labs_Stock_Pitch.pdf` | Full equity research stock pitch |
 | `Jyothy_Labs_DCF.xlsx` | 10-year DCF, revenue build and reverse DCF model |
 | `Jyothy_Labs_DCF_Assumptions.pdf` | Detailed operating and valuation assumptions |
-| `Sources_and_References.pdf` | Research sources and references |
 
 ---
 
